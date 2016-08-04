@@ -20,7 +20,7 @@
     "moment": "~2.14.1",
     "normalize-package-data": "~2.3.5",
     "rc": "~1.1.6",
-    "registry-auth-token": "~2.1.1",
+    "registry-auth-token": "~3.0.0",
     "request": "~2.73.0",
     "require-directory": "~2.1.1",
     "toml": "~2.3.0",
